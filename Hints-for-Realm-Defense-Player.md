@@ -57,9 +57,11 @@
 + 部分安卓机可以在广告开始播放后，按下home键返回桌面，再点击游戏图标进入，即可跳过广告；没有广告时，可再试一次、挂上V#P#N、终止后台进程并重进、等待几个小时或更换显示语言，但都不一定有效。
 + 安卓机推荐连接谷歌账户进行云端备份，且读档时直接点击“恢复”是无效的，操作详见群文件相应教程。
 
-## 贡献者/特别鸣谢（acknowledgements）
+## 贡献者/特别鸣谢（Acknowledgements）
 @睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code，以及看到最后的你。
 
-> 想给官方写邮件？
+> 想给官方写邮件？建议用英文。
+>
 > <a href="mailto:info@babeltimeus.com">info@babeltimeus.com</a>
+>
 > <a href="mailto:cs@babeltimeus.com">cs@babeltimeus.com</a> (请附带ticket)
