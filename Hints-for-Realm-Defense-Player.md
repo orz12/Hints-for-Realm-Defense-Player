@@ -62,6 +62,6 @@
 
 > 想给官方写邮件？
 
-<a href="mailto:info@babeltimeus.com">info@babeltimeus.com</a>
+> <a href="mailto:info@babeltimeus.com">info@babeltimeus.com</a>
 
-<a href="mailto:cs@babeltimeus.com">cs@babeltimeus.com</a>(请附带ticket)
+> <a href="mailto:cs@babeltimeus.com">cs@babeltimeus.com</a> (请附带ticket)
