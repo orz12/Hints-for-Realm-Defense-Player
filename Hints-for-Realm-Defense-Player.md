@@ -1,6 +1,7 @@
-# Realm Defense 新手指南 2017-12-27
+# Realm Defense 非官方新手指南 2017-12-27
 
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
+<a href="https://www.babeltimeus.com/"><img src="https://www.babeltimeus.com/images/logo-290x93.png" /></a>
 
 ## 写在前面
 
