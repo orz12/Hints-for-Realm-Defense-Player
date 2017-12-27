@@ -1,7 +1,8 @@
 # Realm Defense 非官方新手指南 2017-12-27
 
 <a href="https://www.babeltimeus.com/"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
+<a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48" /></a>
+<a href="https://itunes.apple.com/us/app/realm-defense/id1197076384?mt=8" ><img src="https://owncloud.org/wp-content/themes/owncloud/img/owncloud-ios-app-store-itunes.png"  height="48" /></a>
 
 ## 写在前面
 
@@ -58,3 +59,8 @@
 
 ## 贡献者/特别鸣谢（acknowledgements）
 @睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code，以及看到最后的你。
+
+想给官方写邮件？
+<a href="mailto:info@babeltimeus.com">info@babeltimeus.com</a>
+
+<a href="mailto:cs@babeltimeus.com">cs@babeltimeus.com</a>(请附带ticket)
