@@ -60,7 +60,8 @@
 ## 贡献者/特别鸣谢（acknowledgements）
 @睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code，以及看到最后的你。
 
-想给官方写邮件？
+> 想给官方写邮件？
+
 <a href="mailto:info@babeltimeus.com">info@babeltimeus.com</a>
 
 <a href="mailto:cs@babeltimeus.com">cs@babeltimeus.com</a>(请附带ticket)
