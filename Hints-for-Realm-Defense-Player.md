@@ -81,7 +81,8 @@
 @睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse，以及看到最后的你。
 
 ## 想给官方写邮件？
-+ 建议用英文哦。
-<a href="mailto:cs@babeltimeus.com" target="_blank">cs@babeltimeus.com</a> （请附带 Support-Ticket，并建议写上你的用户名；或进入游戏主界面-设置-联系我们） 
- 
++ 建议用英文哦。  
+
+<a href="mailto:cs@babeltimeus.com" target="_blank">cs@babeltimeus.com</a> （请附带 Support-Ticket，并建议写上你的用户名；或进入游戏主界面-设置-联系我们）  
+
 <a href="mailto:info@babeltimeus.com" target="_blank">info@babeltimeus.com</a>
