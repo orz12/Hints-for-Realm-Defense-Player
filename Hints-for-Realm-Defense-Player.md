@@ -1,12 +1,12 @@
 # Realm Defense 非官方新手指南 2018-01-05
 
-<a href="https://www.babeltimeus.com/"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd"><img src="/images/download_app_google_play.svg" height="48" /></a>
-<a href="https://itunes.apple.com/us/app/realm-defense/id1197076384?mt=8" ><img src="/images/download_app_store.svg"  height="48" /></a>
+<a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
+<a href="https://itunes.apple.com/us/app/realm-defense/id1197076384?mt=8" target="_blank"><img src="/images/download_app_store.svg"  height="48" /></a>
 
 ## 本周传奇段锦标赛视频专属区域（感谢@ATE）
-<a href="https://space.bilibili.com/3161562#/">https://space.bilibili.com/3161562#/</a>
-+ 如果希望自己下载 **YouTube** 视频，可利用相关工具如 <a href="http://www.clipconverter.cc/">http://www.clipconverter.cc/</a>
+<a href="https://space.bilibili.com/3161562#/" target="_blank">https://space.bilibili.com/3161562#/</a>
++ 如果希望自己下载 **YouTube** 视频，可利用相关工具如 <a href="http://www.clipconverter.cc/" target="_blank">http://www.clipconverter.cc/</a>
 
 ## 写在前面
 
@@ -80,8 +80,8 @@
 ## 贡献者/特别鸣谢（Acknowledgements）
 @睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse，以及看到最后的你。
 
-> 想给官方写邮件？建议用英文哦。
->
-> <a href="mailto:cs@babeltimeus.com">**cs@babeltimeus.com**</a> （请附带 Support-Ticket，并建议写上你的用户名；或进入游戏主界面-设置-联系我们）
->
-> <a href="mailto:info@babeltimeus.com">info@babeltimeus.com</a>
+## 想给官方写邮件？
++ 建议用英文哦。
+<a href="mailto:cs@babeltimeus.com" target="_blank">cs@babeltimeus.com</a> （请附带 Support-Ticket，并建议写上你的用户名；或进入游戏主界面-设置-联系我们） 
+ 
+<a href="mailto:info@babeltimeus.com" target="_blank">info@babeltimeus.com</a>
