@@ -4,6 +4,9 @@
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
 <a href="https://itunes.apple.com/us/app/realm-defense/id1197076384?mt=8" target="_blank"><img src="/images/download_app_store.svg"  height="48" /></a>
 
+## 目录（测试中）
+[toc]
+
 ## 写在前面
 
 + 欢迎加入 **Realm Defense** 的大家庭！中国区 QQ 群号为 645206768（你可能已经加了）。记得挂上光荣的国旗！
