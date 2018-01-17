@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-01-16
+# Realm Defense 非官方新手指南 2018-01-17
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -62,6 +62,7 @@
 ## 补充说明
 
 + 地图可以**双指缩放**和**拖动**。
++ 道具列表可以自由添加和删除。
 + **新手30天签到奖励**（30-day login bonus），只有30天，领完就没有了。**每日试炼**（daily trail）一直有（循环出现），过关领钻石，其数量与生命值无关，箱子一般是40钻，每天一次，没过可以反复尝试。仅每日试炼的收入（以完整周期计算）为每月2930钻石；完成任务能够获得的钻石很可观。
 + **圣水工厂**（elixir mine）目前最高7级（1120圣水/8小时），新手一般升1-3级，鼓励多升，因其属于长线投资：圣水除过关奖励、活动奖励、任务奖励外，只有这一个方法获得持续的圣水。每八小时内收一次即可最大化收益。也可以暂存，地图每拿到一颗星（star，就是三星通关的星星）圣水存量上限增加200。
 + 箭塔（一世界）减速的几率聊胜于无，不要对其大规模群体减速能力抱有太大期许。
