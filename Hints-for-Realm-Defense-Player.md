@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-01-17
+# Realm Defense 非官方新手指南 2018-01-30
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -53,7 +53,7 @@
 
 + 锦标赛（tournament）周一早上结算，结算后再予奖励和晋升，并休息一天，之后会更换锦标赛地图，但APP本身不一定会更新；如果提示请更新到新版，安卓玩家可在群文件寻找一下，或麻烦群友帮忙分享。
 > **段位**（league）包含**青铜**（bronze），**白银**（sliver），**黄金**（gold，可开启三地图），**白金**（platinum），**钻石**（diamond），**大师**（master），**传奇**（legendary）。其中传奇前三将被赋予**宗师**（grand master）称号，**并冠以[GM]**。
-+ 锦标赛本赛季即将结束，高于金段位的玩家将重置为金段，但称号、皮肤、个人资料、已完成任务不受影响；其余玩家也不受影响。
++ 锦标赛赛季结束时，高于金段位的玩家将重置为金段，但称号、皮肤、个人资料、已完成任务不受影响；其余玩家也不受影响。
 + 银及以上锦标赛可以使用**毁天灭地魔咒**（armageddon，流星雨）和**霜冻药剂 lv2**（freeze potion lv2，二级冰冻，约6s）；金及以上可以使用强大的**陨星**（meteor）。
 > 注：道具列表可以替换、隐藏等。
 + 金段及以上可能与铜、银段地图不同，难度也有差异；祝福英雄也可能不同。
