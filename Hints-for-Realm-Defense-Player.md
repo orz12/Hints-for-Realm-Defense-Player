@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-01-31
+# Realm Defense 非官方新手指南 2018-02-01
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -88,10 +88,10 @@
 + 连接 **Facebook** 加入讨论组可以完成任务，此部分为政治敏感话题，具体操作可见群文件相应教程；另外，Reddit也有相应讨论区。
 + 部分安卓机可以在广告开始播放后，按下 home 键返回桌面，再点击游戏图标进入，即可跳过广告；提示未准备好等错误时，可再试一次、挂上 V#P#N、终止后台进程并重进、等待几个小时或更换显示语言，但都不一定有效。
 + 安卓机推荐连接谷歌账户进行**云端备份**，且读档时直接点击“恢复”是无效的，操作详见群文件相应教程。
-+ 附另一个安装包下载链接（百分网，更新较慢） <a href="https://a.byfen.com/app/17398.html" target="_blank">https://a.byfen.com/app/17398.html</a>
++ 附一些安装包下载链接：(1)百分网，更新较慢 <a href="https://a.byfen.com/app/17398.html" target="_blank">https://a.byfen.com/app/17398.html</a> (2)APK4Fun <a href="https://www.apk4fun.com/games/com.babeltimeus.legendstd/" target="_blank">https://www.apk4fun.com/games/com.babeltimeus.legendstd/</a>
 
 ## 特别鸣谢
-@睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚，以及看到最后的你。
+@睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅]，以及看到最后的你。
 
 ## 官方邮箱
 + 想给官方写电子邮件？中英文都可以，当然，推荐用英文。  
