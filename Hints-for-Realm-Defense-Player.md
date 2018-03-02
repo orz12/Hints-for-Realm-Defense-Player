@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-02-25
+# Realm Defense 非官方新手指南 2018-03-03
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -6,7 +6,7 @@
 
 ## 写在前面
 
-+ 欢迎加入 **Realm Defense** 的大家庭！中国区 QQ 群号为 645206768（你可能已经加了）。记得挂上光荣的国旗！另外，我们的队伍暂定了一个用户名后缀：『肝帝』。
++ 欢迎加入 **Realm Defense** 的大家庭！中国区 QQ 群号为 725166239（新群）。记得挂上光荣的国旗！另外，我们的队伍暂定了一个用户名后缀：『肝帝』。
 > **RD** 的全称为 **Realm Defense: Hero Legends TD (Tower Defense) ，帝国守卫战：英雄传奇塔防**。
 + **群文件**和**群相册**里有一部分**攻略**，若暂时没有，咨询攻略时，推荐尽量提供详细信息，如锦标赛段位、地图截图、关卡号、模式、自己所用的英雄和等级等，以便大家提供帮助。
 > 本游戏并不属于 “pay to win” 型，一般两个月内即可达到较高水平。但氪金（参与内购）能够支持开发者，并加快游戏进程。
@@ -91,7 +91,7 @@
 + 附一些安装包下载链接：(1)百分网，更新较慢 <a href="https://a.byfen.com/app/17398.html" target="_blank">https://a.byfen.com/app/17398.html</a> (2)APK4Fun <a href="https://www.apk4fun.com/games/com.babeltimeus.legendstd/" target="_blank">https://www.apk4fun.com/games/com.babeltimeus.legendstd/</a>
 
 ## 特别鸣谢
-@睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅]，以及看到最后的你。
+@睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q ，以及看到最后的你。
 
 ## 官方邮箱
 + 想给官方写电子邮件？中英文都可以，当然，推荐用英文。  
