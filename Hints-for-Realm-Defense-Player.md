@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-03-03
+# Realm Defense 非官方新手指南 2018-03-12
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -30,6 +30,7 @@
 + **推荐英雄购买路线**(2)极限型：**魔娜**——**奈拉克斯**——**嫣**
 > 对于(1)稳妥型，大致为，第一个先买小丑，三英雄锦标赛可以打上黄金段位；之后，三地图解锁，可以买凤凰辅助晋升至钻石段位；第三、第四个一般买紫龙或嫣，构成目前比较普适的、顶配的阵容（丑嫣龙、凤嫣龙【极罕见】）或者根据自己需要购买其它英雄作为过渡和体验。不要忘记升级圣水工厂，中后期5-7级是比较理想的。当然，也有在40天左右仅靠魔娜、兰斯洛特（lancelot）、菲（fee）无氪金靠锦标赛晋级买全龙嫣丑的报道，但非常困难。
 + 由于英雄的普适性、性价比不同，一般**不建议**为了开地图（包括隐藏关卡，Challenges）而购买指定（指定数量）英雄。中后期熟手升级英雄技能或跟随锦标赛祝福除外。
++ 英雄等级满级为25。所需圣水可参看群相册内的表格。
 > 暂时只有一、二、三地图有隐藏关卡。
 
 ## 大地图
@@ -91,11 +92,17 @@
 + 附一些安装包下载链接：(1)百分网，更新较慢 <a href="https://a.byfen.com/app/17398.html" target="_blank">https://a.byfen.com/app/17398.html</a> (2)APK4Fun <a href="https://www.apk4fun.com/games/com.babeltimeus.legendstd/" target="_blank">https://www.apk4fun.com/games/com.babeltimeus.legendstd/</a>
 
 ## 特别鸣谢
-@睡神 @Doppelganger @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q ，以及看到最后的你。
+@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q ，以及看到最后的你。
 
 ## 官方邮箱
-+ 想给官方写电子邮件？中英文都可以，当然，推荐用英文。  
++ 想给官方写电子邮件？中英文都可以，当然，推荐用英文。 
 
 <a href="mailto:cs@babeltimeus.com" target="_blank">cs@babeltimeus.com</a> （请附带 Support-Ticket，并建议写上你的用户名；或进入游戏主界面-设置-联系我们）  
 
 <a href="mailto:info@babeltimeus.com" target="_blank">info@babeltimeus.com</a>
+
+官方主页 about（关于）页面：<a href="https://www.babeltimeus.com/#about" target="_blank">https://www.babeltimeus.com/#about</a>
+
+官方 privacy-policy（隐私条款）页面：<a href="https://www.babeltimeus.com/privacy-policy" target="_blank">https://www.babeltimeus.com/privacy-policy</a>
+
+截止至 2018-03-12，谷歌商店下载的apk所需权限为：full network access, Google Play billing service, control vibration, view network connections, view WLAN state.
