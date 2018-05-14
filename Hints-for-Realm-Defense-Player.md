@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-04-09
+# Realm Defense 非官方新手指南 2018-05-14
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -6,7 +6,7 @@
 
 ## 写在前面
 
-+ 欢迎加入 **Realm Defense** 的大家庭！中国区 QQ 群号为 725166239。记得挂上光荣的国旗！另外，我们的队伍暂定了一个用户名后缀：『肝帝』。
++ 欢迎加入 **Realm Defense** 的大家庭！中国区 QQ 群号为 725166239。另外，我们的队伍暂定了一个用户名后缀：『肝帝』。
 > **RD** 的全称为 **Realm Defense: Hero Legends TD (Tower Defense) ，帝国守卫战：英雄传奇塔防**。
 + 群文件和群相册里有一部分**攻略**，难以操作的关卡已尽量录制视频，若确认没有，咨询攻略时，请尽量提供详细信息，如锦标赛段位、地图截图、关卡号、模式、自己所用的英雄和等级等，以便大家提供帮助。
 > 本游戏并不属于 “pay to win” 型，一般两个月内即可达到较高水平。但氪金（付费参与内购）能够支持开发者，并加快游戏进程。
@@ -30,7 +30,8 @@
 + **推荐英雄购买路线**（2）极限型：**魔娜**——**奈拉克斯**——**嫣**——**雷夫**（存疑，建议先暂缓购买）。
 > 对于(1)稳妥型，大致为，第一个先买小丑，三英雄锦标赛可以打上黄金段位；之后，三地图解锁，可以买凤凰辅助晋升至钻石段位；第三、第四个一般买紫龙或嫣，构成目前比较普适的、顶配的阵容（丑嫣龙、凤嫣龙、嫣铁龙等）或者根据自己需要购买其它英雄作为过渡和体验。不要忘记升级圣水工厂，中后期5-7级是比较理想的。当然，也有在40天左右仅靠魔娜、兰斯洛特（lancelot）、菲（fee）无氪金靠锦标赛晋级买全龙嫣丑的报道，但非常困难。
 + 由于英雄的普适性、性价比不同，一般**不建议**为了开地图（包括隐藏关卡，Challenges）而购买指定（指定数量）英雄。中后期熟手升级英雄技能或跟随锦标赛祝福除外。
-+ 英雄等级满级暂为30。达到25级后，需要完成四地图所有关卡，才能解锁更高等级。英雄升级除了影响技能外，也会提升基础属性，但不会显示。另外，25及以下所需圣水（elixir，红瓶，类似经验，或道具锻造原料）可参看群相册内的表格。
++ 英雄等级满级暂为30。达到25级后，需要完成四地图所有关卡，才能解锁更高等级。
++ 英雄升级除了影响技能外，也会提升基础属性，但不会显示。可参看此帖（英文）：<a href="https://www.reddit.com/r/RealmDefenseTD/comments/8by6wd/how_strong_are_level_30_heroes/?utm_source=reddit-android" target="_blank">how_strong_are_level_30_heroes</a>
 > 暂时只有一、二、三地图有隐藏关卡。
 
 ## 大地图
