@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-05-14
+# Realm Defense 非官方新手指南 2018-05-16
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -71,7 +71,7 @@
 + 无尽模式，第一次完成任务将根据条件获得钻石，后续通关只获得小道具，**15分钟以上**奖励不再增加（卖塔、拖动英雄停止攻击和拦截等即可结束，异常退出无奖励），但20分钟后难度仍会增加，可供大家练习。此段位任务独立于锦标赛，且有所不同，本文除特殊说明外，“段位”不包括无尽模式。
 + **扫荡**（raid）将以历史最好成绩发放奖励。
 + 每天，青铜/白银：看两次广告，可领取两张扫荡券；商店可领取两把钥匙。黄金/白金：看四次广告，可分别领取两把钥匙和两把扫荡券；商店可领取两把钥匙。钻石及以上（包括因赛季重置而降级）：看四次广告，可领取四张扫荡券；在商店中可领取两次钥匙，每次两把。
-> 注1、商店领取地点：主界面的商店->特价礼包最右侧。
+> 注1、商店领取地点：主界面的商店->特价礼包（Sale Bundles）最右侧。
 > 注2、对于领两次钥匙的情况：从早八点开始，每两小时为一个时段，一个时段限领一次钥匙，一天至多领两次，每次两把。
 + 一、二、三地图的无尽模式相互独立，且暂时只有一、二、三地图有无尽模式。
 
@@ -94,7 +94,7 @@
 + 附一些安装包下载链接：(1)百分网，更新较慢 <a href="https://a.byfen.com/app/17398.html" target="_blank">https://a.byfen.com/app/17398.html</a> (2)APK4Fun <a href="https://www.apk4fun.com/games/com.babeltimeus.legendstd/" target="_blank">https://www.apk4fun.com/games/com.babeltimeus.legendstd/</a>
 
 ## 特别鸣谢
-@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q ，以及看到最后的你。
+@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q @Kruz ，以及看到最后的你。
 
 ## 官方邮箱
 + 想给官方写电子邮件？中英文都可以，当然，推荐用英文。 
