@@ -64,7 +64,7 @@
 + 每天可以免钻石挑战三次锦标赛，无论使用钻石还是两次观看广告的方式参与，当天均会提高锦标赛入场价格。免钻次数于手机所设时区相应零点重置。
 + 由于锦标赛是计时赛，除最后一波冲刺或紧急复活、立即完成冷却（CD）等情况外（罕见），不推荐提前召唤下一波英雄。
 > 注：2017-12 圣诞活动结束后，祝福英雄（blessed hero, increased health, attack, and spell damage, 提高英雄的血量、攻击与技能伤害/魔法伤害，不改变速度）回归。一般而言，祝福带来的强化效果据英雄而定，一般其属性强力，可视情况替换顶配英雄组合，新手可不依赖祝福购买英雄。
-+ 如果希望自己下载 **YouTube** 视频，可利用相关工具如 <a href="http://www.clipconverter.cc/" target="_blank">http://www.clipconverter.cc/</a>
++ 如果希望自己下载 **YouTube** 视频，可利用相关工具如 <a href="http://www.clipconverter.cc/" target="_blank">http://www.clipconverter.cc/</a> 或者 <a href="https://en.savefrom.net/" target="_blank">https://en.savefrom.net/</a>（均可能需要翻墙）
 
 ## 无尽模式
 
