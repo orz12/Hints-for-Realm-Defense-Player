@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-05-19
+# Realm Defense 非官方新手指南 2018-06-08
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -58,7 +58,7 @@
 + 锦标赛（tournament）周一早上结算，结算后再予奖励和晋升，并休息一天，之后会更换锦标赛地图，但APP本身不一定会更新；如果提示请更新到新版，安卓玩家可在群文件寻找一下，或麻烦群友帮忙分享。
 > **段位**（league）包含**青铜**（bronze），**白银**（sliver），**黄金**（gold，可开启三地图），**白金**（platinum），**钻石**（diamond），**大师**（master），**传奇**（legendary）。其中传奇前三将被赋予**宗师**（grand master）称号，**并冠以[GM]**。
 + 锦标赛赛季结束时，高于金段位的玩家将重置（reset）为金段，称号、皮肤、个人资料、已完成任务不受影响，特别地，传奇段位任务（2000钻）重置，可以再次完成；其余玩家不受影响。
-+ 锦标赛过程中，能量物品（power items, 道具、药水）数量限制将标注在右下角。铜及以上锦标赛可使用**治愈药剂**（healing potion，区域加血与立即复活）、**火焰药剂**（fire potion，炸弹，范围伤害，对地对空），**霜冻药剂**（freeze potion，全图冰冻，约4s）、**召唤药剂**（summon potion，召唤一兵，自动对战，对空无效，无法拖动），银及以上锦标赛可以使用**毁天灭地魔咒**（armageddon，全图流星雨，至多击打约20个目标，白银段位主力）和**霜冻药剂 lv2**（freeze potion lv2，全图二级冰冻，约6s，锦标赛有一定发挥）；金及以上可以使用强大的**陨星**（meteor，巨额输出，中心区域有秒杀效果，也能击打一定的零星目标，赠送两个大兵，锦标赛主力）。
++ 锦标赛过程中，能量物品（power items, 道具、药水）数量限制将标注在右下角。铜及以上锦标赛可使用**治愈药剂**（healing potion，区域加血与立即复活）、**火焰药剂**（fire potion，炸弹，范围伤害，对地对空），**霜冻药剂**（freeze potion，全图冰冻，约5s）、**召唤药剂**（summon potion，召唤一兵，自动对战，对空无效，无法拖动），银及以上锦标赛可以使用**毁天灭地魔咒**（armageddon，全图流星雨，至多击打约20个目标，白银段位主力）和**霜冻药剂 lv2**（freeze potion lv2，全图二级冰冻，约7.5s，锦标赛有一定发挥）；金及以上可以使用强大的**陨星**（meteor，巨额输出，中心区域有秒杀效果，也能击打一定的零星目标，赠送两个大兵，锦标赛主力）。
 > 注：道具列表可以替换、隐藏等。
 + 铜、银段锦标赛地图仅有一、二世界，金段及以上可能为三世界，钻石段及以上也可能为四世界。相同图的难度是一致的。另外，祝福英雄各段位基本相同。
 + 每天可以免钻石挑战三次锦标赛，无论使用钻石还是两次观看广告的方式参与，当天均会提高锦标赛入场价格。免钻次数于手机所设时区相应零点重置。
@@ -96,7 +96,7 @@
 + 附一些安装包下载链接：(1)百分网，更新较慢 <a href="https://a.byfen.com/app/17398.html" target="_blank">https://a.byfen.com/app/17398.html</a> (2)APK4Fun <a href="https://www.apk4fun.com/games/com.babeltimeus.legendstd/" target="_blank">https://www.apk4fun.com/games/com.babeltimeus.legendstd/</a>
 
 ## 特别鸣谢
-@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q @Kruz @念，以及看到最后的你。
+@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q @Kruz @念 @lalalila @三千，以及看到最后的你。
 
 ## 官方邮箱
 + 想给官方写电子邮件？中英文都可以，当然，推荐用英文。 
