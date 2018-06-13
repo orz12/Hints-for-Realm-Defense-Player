@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-06-08
+# Realm Defense 非官方新手指南 2018-06-14
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -39,7 +39,7 @@
 
 + 地图（world map）、游戏厅（arcade）只有**首次通关**，才能获得奖励。未三星通关的打至三星一般会补足奖励。
 > 奖励一般包括**圣水**（elixir，红瓶，类似经验，或道具锻造原料）、**钻石**（gems，通用钱币）、**能量物品**（power items，道具或药水）、**能量**（energy，体力，闪电状图标）。已获得三星的关卡重复打，仅补充能量，也就是反复打**不能练级**。
-+ 战役模式（campaign mode，普通模式）等模式下，生命值（lives）为20，**漏2个怪以内**（即保证生命值不低于18），即可**三星**（stars）通关；10-17，两星；1-9，一星。
++ 战役模式（campaign mode，普通模式）等模式下，生命值（lives）不低于18（在有骑士觉醒加成的情况下，仍是18），即可**三星**（stars）通关；10-17，两星；1-9，一星。
 + 除时空裂境（shattered realms）和英雄升级副本（hero’s stories）的特殊要求外，盗贼（kill the bandit）、村民（protect the villager）任务是否完成，只影响关卡内的金币（coins），与星级、奖励无关。
 > 他们出场都是有音效（sound）的，分别是：低语 “catch me if you can（来抓我试试）”、高呼 “save me（救命）”，可据此提示避免遗漏任务。
 + 召唤第一波怪物（call the wave）前，不执行消耗，所以你可以进去先布个塔、截个图，再退出；而且此时卖塔不会亏损。
