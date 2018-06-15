@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-06-14
+# Realm Defense 非官方新手指南 2018-06-15
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -17,6 +17,7 @@
 ## 目录
 1. [英雄购买与隐藏关卡](#英雄购买与隐藏关卡) 
 1. [大地图](#大地图)
+1. [游戏厅](#游戏厅)
 1. [时空裂境与英雄升级副本](#时空裂境与英雄升级副本)
 1. [锦标赛](#锦标赛)
 1. [无尽模式](#无尽模式)
@@ -27,23 +28,30 @@
 ## 英雄购买与隐藏关卡
 
 + **推荐英雄购买路线**（1）稳妥型：**魔娜**（Mabyn，小丑，3000钻）——**荷鲁斯**（Helios，凤凰，三地图60关解锁，6000钻）——**嫣**（Yan，四地图90关解锁，7500钻）——**奈拉克斯**（Narlax，紫龙，有时戏称黄鳝、泥鳅等，四地图110关解锁，7500钻）——**雷夫**（Leif，大胡子、王大锤、铁匠等，五地图130关解锁，7500钻）。
-+ **推荐英雄购买路线**（2）极限型（无顺序）：**魔娜**——**奈拉克斯**——**嫣**——**雷夫**。
++ **推荐英雄购买路线**（2）极限型（无顺序）：**魔娜**——**嫣**——**雷夫**——**奈拉克斯**。
 + 目前大锤表现抢眼，有替换紫龙的倾向。
 > 对于(1)稳妥型，大致为，第一个先买小丑，三英雄锦标赛可以打上黄金段位；之后，三地图解锁，可以买凤凰辅助晋升至钻石段位；第三、第四个一般买紫龙或嫣，构成目前比较普适的、顶配的阵容或者根据自己需要购买其它英雄作为过渡和体验。不要忘记升级圣水工厂，中后期5-7级是比较理想的。当然，也有在40天左右仅靠魔娜、兰斯洛特（lancelot）、菲（fee）无氪金靠锦标赛晋级买全龙嫣丑的报道，但非常困难。
 + 由于英雄的普适性、性价比不同，一般**不建议**为了开地图（包括隐藏关卡，Challenges）而购买指定（指定数量）英雄。中后期熟手升级英雄技能或跟随锦标赛祝福除外。
 + 英雄等级满级暂为30。
-+ 英雄升级除了影响技能外，也会提升基础属性，但不会显示。可参看此帖（英文）：<a href="https://www.reddit.com/r/RealmDefenseTD/comments/8by6wd/how_strong_are_level_30_heroes/?utm_source=reddit-android" target="_blank">how_strong_are_level_30_heroes</a>
++ 英雄升级、英雄觉醒除了影响技能外，也会提升基础属性，但不会显示。升级部分可参看此帖（英文）：<a href="https://www.reddit.com/r/RealmDefenseTD/comments/8by6wd/how_strong_are_level_30_heroes/?utm_source=reddit-android" target="_blank">how_strong_are_level_30_heroes</a>
 > 暂时只有一、二、三地图有隐藏关卡。
 
 ## 大地图
 
-+ 地图（world map）、游戏厅（arcade）只有**首次通关**，才能获得奖励。未三星通关的打至三星一般会补足奖励。
-> 奖励一般包括**圣水**（elixir，红瓶，类似经验，或道具锻造原料）、**钻石**（gems，通用钱币）、**能量物品**（power items，道具或药水）、**能量**（energy，体力，闪电状图标）。已获得三星的关卡重复打，仅补充能量，也就是反复打**不能练级**。
++ 地图（world map）只有**首次通关**，才能获得奖励。未三星通关的打至三星一般会补足奖励。
+> 奖励一般包括**圣水**（elixir，红瓶，类似经验，或道具锻造原料）、**钻石**（gems，通用钱币）、**能量物品**（power items，道具或药水）、**能量**（energy，体力，闪电状图标）。同时，通过后，还能观看广告来获得额外的道具。若因为网络波动等原因无法观看，则退出后会错过该机会。已获得三星的关卡重复打，仅补充能量，也就是反复打**不能练级**。
 + 战役模式（campaign mode，普通模式）等模式下，生命值（lives）不低于18（在有骑士觉醒加成的情况下，仍是18），即可**三星**（stars）通关；10-17，两星；1-9，一星。
 + 除时空裂境（shattered realms）和英雄升级副本（hero’s stories）的特殊要求外，盗贼（kill the bandit）、村民（protect the villager）任务是否完成，只影响关卡内的金币（coins），与星级、奖励无关。
 > 他们出场都是有音效（sound）的，分别是：低语 “catch me if you can（来抓我试试）”、高呼 “save me（救命）”，可据此提示避免遗漏任务。
 + 召唤第一波怪物（call the wave）前，不执行消耗，所以你可以进去先布个塔、截个图，再退出；而且此时卖塔不会亏损。
-+ 锦标赛（见下）黄金段位（或者购买6个英雄，不推荐）解锁世界三“旭风沙漠（sunstorm sands）”，锦标赛钻石段位、两次赛季均晋升至白金，也就是达到金段后累计晋升两次（或购买10个英雄）解锁世界四“星空云纱（caelum cloudveil）”。锦标赛达到金段后累计晋升三次（或购买12个英雄）解锁世界五“塔塔洛斯（Tartarus）”。也可以氪金开启，支持开发者。安卓玩家详见群文件相应教程。
++ 世界三“旭风沙漠（sunstorm sands）”解锁条件（满足其一即可）：锦标赛（见下）黄金段位（推荐）、拥有5个英雄觉醒符文、拥有6个英雄（不推荐）
++ 世界四“星空云纱（caelum cloudveil）”解锁条件（满足其一即可）：锦标赛达到金段后累计晋升两次、拥有12个英雄觉醒符文、拥有10个英雄
++ 世界五“塔塔洛斯（Tartarus）”解锁条件（满足其一即可）：锦标赛达到金段后累计晋升三次、拥有22个英雄觉醒符文、拥有12个英雄
+> 当然，以上世界均可无视顺序氪金开启，支持开发者。安卓玩家详见群文件相应教程。
+
+## 游戏厅
+
++ 游戏厅（arcade）只有**首次通关**，才能获得奖励。奖励内容类似大地图。部分关卡较难，或有运气因素（如带有随机性），可以多次尝试，或参考群文件、群相册。
 
 ## 时空裂境与英雄升级副本
 
@@ -96,12 +104,12 @@
 + 附一些安装包下载链接：(1)百分网，更新较慢 <a href="https://a.byfen.com/app/17398.html" target="_blank">https://a.byfen.com/app/17398.html</a> (2)APK4Fun <a href="https://www.apk4fun.com/games/com.babeltimeus.legendstd/" target="_blank">https://www.apk4fun.com/games/com.babeltimeus.legendstd/</a>
 
 ## 特别鸣谢
-@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q @Kruz @念 @lalalila @三千，以及看到最后的你。
+@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q @Kruz @念 @lalalila @三千 @空力使，以及看到最后的你。
 
 ## 官方邮箱
 + 想给官方写电子邮件？中英文都可以，当然，推荐用英文。 
 
-<a href="mailto:cs@babeltimeus.com" target="_blank">cs@babeltimeus.com</a> （请附带 Support-Ticket，并建议写上你的用户名；或进入游戏主界面-设置-联系我们）  
+<a href="mailto:cs@babeltimeus.com" target="_blank">cs@babeltimeus.com</a> （请附带 Support-Ticket（uid），并建议写上你的用户名；在开屏加载过程中，点击左上角的 help 或进入游戏主界面-设置-联系我们可以直接打开邮箱）  
 
 <a href="mailto:info@babeltimeus.com" target="_blank">info@babeltimeus.com</a>
 
