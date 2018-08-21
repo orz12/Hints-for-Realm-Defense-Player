@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-08-19
+# Realm Defense 非官方新手指南 2018-08-21
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -78,7 +78,7 @@
 + 为了使关卡难度提升显著，Boss关卡的实际难度增幅非常大。
 + 英雄觉醒提升阶数（Rank）所需碎片（Awakening Token）为:5,10,15,20,40,80。每觉醒一阶另外需要固定800钻（考代拉活动除外）。部分英雄购买后已经获得了部分觉醒（见下），则可跳过。
 > 部分觉醒：初始英雄0阶，1.5k英雄1阶，3k英雄2阶，6k英雄4阶，7.5k英雄5阶。英雄边框的颜色为：0阶：铜；1-2阶：银；3-5阶：金；6阶：紫。
-+ 目前支持觉醒的英雄为：菲（Fee）、正宗（Masamune）、兰斯洛特（Lancelot）、伯尔顿（Bolton）、考代拉（Caldera，暂时仅在活动期间可以觉醒）。
++ 目前支持觉醒至6阶的英雄为：菲（Fee）、正宗（Masamune）、兰斯洛特（Lancelot）、伯尔顿（Bolton）、艾冰（Efrigid）、烈焰神龙（Smoulder）、黑岩巨人（Obsidian）、考代拉（Caldera，活动已结束，暂不能觉醒）。
 > 若尚未购买某英雄，或其碎片已满足觉醒至6阶的数量，则该英雄在境界守卫的入口将消失。
 
 ## 锦标赛
