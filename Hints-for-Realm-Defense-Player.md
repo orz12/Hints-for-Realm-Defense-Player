@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-08-21
+# Realm Defense 非官方新手指南 2018-08-25
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -120,7 +120,7 @@
 + 附一些安装包下载链接：(1)百分网，更新较慢 <a href="https://a.byfen.com/app/17398.html" target="_blank">https://a.byfen.com/app/17398.html</a> (2)APK4Fun <a href="https://www.apk4fun.com/games/com.babeltimeus.legendstd/" target="_blank">https://www.apk4fun.com/games/com.babeltimeus.legendstd/</a>
 
 ## 特别鸣谢
-@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q @Kruz @念 @lalalila @三千 @空力使 @Source，以及看到最后的你。
+@Doppelganger @睡神 @逗妳玩ル @T^T @路人甲 @Cola Code @刘嘉俊 @洒家 @Madhouse @木兮 @鑫淼森焱垚 @◕‿◕[̲̅Z̲̅K̲̅] @Baby Q @Kruz @念 @lalalila @三千 @空力使 @Source @荒荒，以及看到最后的你。
 
 ## 官方邮箱
 + 想给官方写电子邮件？中英文都可以，当然，推荐用英文。 
