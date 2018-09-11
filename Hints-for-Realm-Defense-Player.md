@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-08-25
+# Realm Defense 非官方新手指南 2018-09-11
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -61,7 +61,7 @@
 + 时空裂境（Shattered Realms）根据条件获得相应圣水，重复打不可获得已奖励部分。
 + 满足最基础的条件并结束，下一关24小时倒计时才开始，倒计时结束解锁下一关（不像每日试炼固定8点），且有开启指定大地图的限制，目前共40关。
 + 英雄技能升级特殊副本需要先开启过此图，并点击技能界面的“+”号进入，从别的地方进入无效。必须按技能顺序升级。完成条件后的对话，可以任意选择，效果相同，没有影响。
-+ 魔娜全技能升级需要其他3个3000钻英雄，嫣需要2个6000钻英雄。奈拉克斯、雷夫、考代拉的2级技能暂未开放。
++ 魔娜全技能升级需要其他3个3000钻英雄，嫣、奈拉克斯需要2个6000钻英雄。雷夫、考代拉的2级技能暂未开放。
 > 带有S的关卡为 Shattered Realms，时空裂境；带有C的关卡为 Challenges，隐藏关卡，其中C1-x为一地图，C2-x为二地图，C3-x为三地图。
 
 ## 境界守卫与英雄觉醒
