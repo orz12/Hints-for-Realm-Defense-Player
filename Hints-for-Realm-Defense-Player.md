@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2018-09-22
+# Realm Defense 非官方新手指南 2018-10-04
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
@@ -74,7 +74,7 @@
 + 英雄觉醒（Awaken）区别于自身和技能升级，是英雄获得额外加成的途径。境界守卫（Realm Seige）则是觉醒所需碎片的主要来源，需要前40关通关方能进入。
 + 境界守卫每天有两次免费机会，之后均需要钥匙。每天也有两次付费购买钥匙（即80钻×2）的机会。钥匙可以暂存，至多为4把，且可于一天内用光。只有胜利通过才能获得奖励，并消耗免费次数或者钥匙。故允许反复尝试。
 + 关卡号均为随机数。随着英雄碎片数量的增至下一级，三、四、五地图的关卡将会逐步出现。
-+ 每天会刷新所有关卡，打完一关或觉醒某英雄仅刷新对应关卡，向后改时间也可刷新关卡。
++ 每天会刷新所有关卡，打完一关或觉醒某英雄仅刷新对应关卡，向后改时间刷新关卡已被修复，不再可用。
 + 每把的道具限制和锦标赛一致。
 + 每关关卡难度不减，无论是哪位英雄，均只能在该关卡原有难度上维持（可看广告以跳过）或增加。一次至多+5，且难度的增加是线性的。四、五世界因为关卡本身较难，故难度增幅较小。特别地，为了使关卡难度提升显著，Boss关卡的实际难度增幅非常大。
 + 奖励包括圣水（与难度呈线性正相关）、碎片（与所选英雄和难度无关，固定为1碎片）、境界守卫勋章（Realm Seige Medal，仅增加难度才可获得，其数量等同于所增加难度）
@@ -130,9 +130,9 @@
 ## 官方邮箱
 + 想给官方写电子邮件？中英文都可以，当然，推荐用英文。 
 
-<a href="mailto:cs@babeltimeus.com" target="_blank">cs@babeltimeus.com</a> （请附带 Support-Ticket（uid），并建议写上你的用户名；在开屏加载过程中，点击左上角的 help 或进入游戏主界面-设置-联系我们可以直接打开邮箱）  
+Customer Support:<a href="mailto:cs@babeltimeus.com" target="_blank">cs@babeltimeus.com</a> （请附带 Support-Ticket（uid），并建议写上你的用户名；在开屏加载过程中，点击左上角的 help 或进入游戏主界面-设置-联系我们可以直接打开邮箱）  
 
-<a href="mailto:info@babeltimeus.com" target="_blank">info@babeltimeus.com</a>
+Business Inquiry:<a href="mailto:info@babeltimeus.com" target="_blank">info@babeltimeus.com</a>
 
 官方主页 about（关于）页面：<a href="https://www.babeltimeus.com/#about" target="_blank">https://www.babeltimeus.com/#about</a>
 
