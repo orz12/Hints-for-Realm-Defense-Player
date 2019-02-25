@@ -1,4 +1,4 @@
-# Realm Defense 非官方新手指南 2019-02-20
+# Realm Defense 非官方新手指南 2019-02-26
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
